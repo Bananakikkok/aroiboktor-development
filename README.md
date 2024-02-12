@@ -16,8 +16,7 @@ node -v เมื่อทำการติดตั้ง Node.js แล้ว
 2. ทำการติดตั้ง git โดยไปที่ https://git-scm.com/downloads เลือก เวอร์ชันที่รองรับ กับระบบปฎิบัติการ
 3. ทำการติดตั้ง visual studio code
 4. ทำการ clone repository
-* Clone ส่วน Frontend :
-* คัดลอกได้ที่นี่ : 
+
 จากนั้นทำการเข้าไปใน vs code แล้วเปิด terminal และทำการ clone ไฟล์มาจาก URL ดังกล่าว จากนั้นทำการให้ path ที่เราอยู่คือ web-deverlopment ตาม folder ที่โคลนมา จากนั้นทำการ ติดตั้ง react จากคำสั่ง npm install react react-dom จากนั้นทำการ build run ได้ด้วยคำสั่ง npm start เพื่อนรันหน้าเว็บใส่
 ~~~
 npm i react-router-dom@6.21.3 ลองใส่คำสั่งนี้หากไม่สามารถไปหน้าอื่นได้ จากนั้นหลังจาก Run Code เสร็จขั้นตอนต่อไปให้เข้าหน้านี้
